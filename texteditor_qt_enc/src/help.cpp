@@ -195,7 +195,7 @@ static QString chatGPTHtml() {
   <li><a href="https://chatgpt.com/share/68ac7667-56b8-800c-9dd2-d7a6de259642" target="_blank">[1]A Text Editor - Original Construction<br/> </a></li>
     <li><a href="https://chatgpt.com/share/68ac938b-ba18-800c-bc0a-39e03c794571" target="_blank">[2] A Text Editor - Code Review with Legal Information:<br/> </a></li>
 	  <li><a href="https://chatgpt.com/share/68adb36f-158c-800c-810b-9cecd78f9dbf" target="_blank">[3] A Text Editor - More on Affirmation and signatures within application not libsodium<br/> </a></li>
-
+</ol>
 )HTML";
 }
 
