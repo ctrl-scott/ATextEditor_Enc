@@ -6,3 +6,6 @@ A Text Editor that has the ability to encrypt via libsodium
 # Regarding ChatGPT
 I am including all the ChatGPT conversations and a video that shows ChatGPT building a glossary - so that any confusion is removed as to what ChatGPT does to construct the answers at the high-level, should I ever have to explain it. (chatgpt_searching.mp4)
 
+You can open the help.cpp and view the HTML information to view the ChatGPT links and other information, or you can use the source to build the dependencies from CMakeLists.txt and the src files.
+
+
